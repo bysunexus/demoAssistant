@@ -1,0 +1,1 @@
+{"type": "object", "properties": {"city": {"type": "str", "description": "城市名称"}}, "required": ["city"]}
